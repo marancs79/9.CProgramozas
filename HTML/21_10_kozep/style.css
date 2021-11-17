@@ -23,3 +23,17 @@ h2,h3 {
 .B{
     font-weight: bold;
 }
+#noveny{
+    float:right;
+    border: black 2px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+table{
+    margin:auto;
+    border: thin black double;
+    width: 200px;    
+}
+td{
+    border: thin black double;
+}
