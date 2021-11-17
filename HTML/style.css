@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial;
+}
+
+a, a:hover, a:visited, a:link{
+    color: #336600
+}
+
+#cim{
+    display: block;
+    margin:auto;
+}
+
+p:first-of-type{
+    font-weight: bold;
+    font-style: italic;
+}
+h2,h3 {
+    color: #22B14C;
+}
+.B{
+    font-weight: bold;
+}
